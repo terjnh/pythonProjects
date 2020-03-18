@@ -1,3 +1,7 @@
+# Creates a printout of names of students
+# who has the second lowest grade scores
+# in a nested list of [name, score]
+
 from operator import itemgetter
 
 if __name__ == '__main__':
